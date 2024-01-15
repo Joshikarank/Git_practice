@@ -1,5 +1,5 @@
 def display():
-    print("hello how are you")
+    print("ydx h")
 
 greets = ["hi", "hello", "how are you"]
 
